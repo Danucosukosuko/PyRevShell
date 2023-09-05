@@ -1,4 +1,4 @@
-# PyTCP Disclaimer
+# PyShell Disclaimer
 ## No me  hago responsable del mal uso que se le pueda dar a esto; Sólo puede ser usado para pruebas de pentesting.
 
 # Uso
