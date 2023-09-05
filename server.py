@@ -16,7 +16,7 @@ def start_server():
 
         try:
             client_socket, client_address = server.accept()
-            print(f"Conexión establecida desde {client_address[0]}:{client_address[1]}")
+            print(f"ConexiÃ³n establecida desde {client_address[0]}:{client_address[1]}")
 
             # Iniciar la shell remota
             while True:
@@ -45,7 +45,7 @@ def start_server():
 
                 client_socket.send(result.encode())
         except ConnectionResetError:
-            # Captura el error de conexión cerrada abruptamente
+            # Captura el error de conexiÃ³n cerrada abruptamente
             continue
         finally:
             server.close()
