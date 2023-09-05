@@ -3,9 +3,10 @@
 
 # Uso
 ### 1º Configura el puerto del servidor entrando en server.py:
-Foto realizada en el Python IDLE
+Foto realizada en Notepad++
 
-![image](https://github.com/Danucosukosuko/PyTCP/assets/71569318/3092b6a6-600d-4856-9d43-985814608dd1)
+![image](https://github.com/Danucosukosuko/PyTCP/assets/71569318/0fd07c31-4e56-4005-a95f-8d61f3be0328)
+
 
 
 ### 2º  Configura la IP y el puerto del PC que quieras atacar en cliente.py:
