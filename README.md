@@ -10,4 +10,4 @@ Foto realizada en el Python IDLE
 ### 2º  Configura la IP y el puerto del PC que quieras atacar en cliente.py:
 Foto realizada en Notepad++
 
-![image](https://github.com/Danucosukosuko/PyTCP/assets/71569318/1a2ccbc3-9fc4-4289-ae76-f5c0079e7705)
+![image](https://github.com/Danucosukosuko/PyTCP/assets/71569318/5430ecbb-891f-4d3f-a52e-246617b37489)
