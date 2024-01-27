@@ -14,10 +14,6 @@ Foto realizada en Notepad++
 
 ![image](https://github.com/Danucosukosuko/PyTCP/assets/71569318/4155e5f4-8cc6-48c9-87fb-2246ab7f03c2)
 
-## Este repositorio tiene una plantilla web en la que tienes que añadir chromesetup.exe (Convirtiendo el server.py a exe)
-
-
-Cuando la víctima descargue Chromesetup.exe de este repositorio, en una de las ventanas, te saldrá una solicitud, y cuando lo ejecute, saldrá otra solicitud en la otra ventana y ya te podrás conectar a través de cliente.py >:)
-
 # IMPORTANTE!!!! (Recomendable)
-Hacer que al ejecutarlo sea todo invisible con pyinstaller
+Hacer que al ejecutarlo sea todo invisible con pyinstaller.
+Evitar uso de comandos -> Dir (Por ahora) El servidor deja de responder cuando le metes uno de eso(s)
